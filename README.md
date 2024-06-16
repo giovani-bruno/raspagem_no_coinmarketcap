@@ -66,6 +66,7 @@ Aqui está um exemplo de saída gerada pelo script:
               Bitcoin	 Ethereum	 Tether BNB	 Solana USDC XRP  Dogecoin  Toncoin	Cardano
 Preço        R$220,000  R$80,000  R$40,000  R$50,000  R$70,000  R$30,000 R$20,000 R$10,000        
 ...
+```
 
 ## Dependências
 - Python 3.x
