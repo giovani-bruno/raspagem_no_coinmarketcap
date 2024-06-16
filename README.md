@@ -16,37 +16,7 @@ Este é um projeto de raspagem de dados feito em Python que coleta informações
 - Criação de um dicionário com as informações de cada moeda.
 - Geração de um DataFrame usando Pandas para análise de dados.
 
-## Instalação
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/Numl8ck/raspagem_no_coinmarketcap.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd raspagem_no_coinmarketcap
-    ```
-3. Crie um ambiente virtual (opcional, mas recomendado):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
-    ```
-4. Instale as dependências:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Como usar
-
-1. Execute o script principal:
-    ```bash
-    python raspagem_no_coinmarketcap.py
-    ```
-2. O script irá coletar as informações e exibi-las no terminal, além de gerar um DataFrame para análises adicionais.
-
-## Exemplo de Saída
-
-Aqui está um exemplo de saída gerada pelo script:
+## Exemplo
 
 ```python
 {
