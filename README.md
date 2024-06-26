@@ -1,6 +1,6 @@
 # CoinMarketCap Scraper
 
-Este é um projeto de raspagem de dados feito em Python que coleta informações das 10 principais criptomoedas listadas no CoinMarketCap. O projeto utiliza as bibliotecas BeautifulSoup, Requests e Regex para extrair dados e Pandas para manipulação e análise.
+Este é um projeto de raspagem de dados feito em Python que coleta informações das 10 principais criptomoedas listadas no [CoinMarketCap](https://coinmarketcap.com/pt-br/). O projeto utiliza as bibliotecas BeautifulSoup, Requests e Regex para extrair dados e Pandas para manipulação e análise.
 
 ## Funcionalidades
 
